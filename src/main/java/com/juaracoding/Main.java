@@ -6,7 +6,7 @@ public class Main {
         System.out.println("Hello, World!");
         System.out.println("my name is Andika");
         System.out.println("thanks for all, Java");
-        System.out.println(" I will be develop application eginner");
+        //System.out.println(" I will be develop application eginner");
 
         if(true){
             System.out.println("berhasil");
